@@ -4,6 +4,142 @@ Kumpulan script hub dan tools untuk game Roblox seperti **Blox Fruits**, **King 
 
 ---
 
+## ⚗️ 1. Alchemy Hub Script
+```lua
+loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()
+```
+
+---
+
+## 🍌 2. Banana Cat Hub
+```lua
+repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
+getgenv().Key = "PASTE_KEY_HERE"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
+-- Get Key : https://ads.luarmor.net/get_key?for=VHFslhWdrPey
+```
+
+---
+
+## ⚡ 3. Speed Hub X
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"))()
+```
+
+---
+
+## 💥 4. Raito Hub
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Efe0626/RaitoHub/main/Script"))()
+```
+
+---
+
+## 🌀 5. HoHo Hub Script
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ascn123/HOHO_H/main/Loading_UI'))()
+```
+
+---
+
+## ⚡ 6. ThunderZ Chest Script
+```lua
+_G.Team = "Marine" -- "Marine" or "Pirate"
+_G.MetodeTeleport = "Instant" --"Instant" or "Tween"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/BloxFruit/Chest/AllDevices.lua"))()
+```
+
+---
+
+## 🔷 7. W-Azure Hub
+```lua
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua"))()
+```
+
+---
+
+## 🟥 8. redZ Hub
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
+```
+
+---
+
+## 🧱 9. Ronix Hub
+```lua
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/513ccdb3ae8a61d4d7698fc337e5256d.lua"))()
+```
+
+---
+
+## 🚀 10. Level Farm (0 to Max)
+```lua
+getgenv().simple_settings = {
+    ["MASTERY"] = {
+        ["ACTIVE"] = true,
+        ["METHOD"] = "Half", -- Method for gaining mastery, "Half"[300] or "Full"[600]
+    },
+    ["OBJECTIVE"] = {
+        ["GODHUMAN"] = true,
+        ["RACE-V3"] = true, -- race to V3 if possible Human, Mink, (Fishman, Ghoul, Cyborg) soon
+        ["FRAGMENT"] = 100000,
+        -- SWORD
+        ["CANVANDER"] = true,
+        ["BUDDY-SWORD"] = true,
+        ["CURSED-DUAL-KATANA"] = true,
+        ["SHARK-ANCHOR"] = true, -- soon.
+        --GUN
+        ["ACIDUM-RIFLE"] = true,
+        ["VENOM-BOW"] = true,
+        ["SOUL-GUITAR"] = true,
+    },
+    ["FRUITPURCHASE"] = true,
+    ["PRIORITYFRUIT"] = {
+        [1] = "Dragon-Dragon",
+        [2] = "Flame-Flame",
+        [3] = "Rumble-Rumble",
+        [4] = "Human-Human: Buddha",
+        [5] = "Dark-Dark",
+    },
+    ["FPSCAP"] = 30,
+    ["LOWTEXTURE"] = true
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/simple-hubs/contents/refs/heads/main/bloxfruit-kaitan-main.lua"))()
+```
+
+---
+
+## ⚛️ 11. Quantum Onyx Project
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FlazhGG/QTONYX/refs/heads/main/NextGeneration.lua"))()
+```
+
+---
+
+## 🌊 12. Flow Hub
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yumiara/Overflow/refs/heads/main/Main.lua"))()
+```
+
+---
+
+## 🌀 13. AnDepZai Hub
+```lua
+repeat wait() until game:IsLoaded() and game.Players.LocalPlayer 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnDepZaiHub/AnDepZaiHubBeta/refs/heads/main/AnDepZaiHubNewUpdated.lua"))()
+```
+
+---
+
+## 🔵 14. BlueX Hub
+```lua
+_G.Team = "Pirates"
+_G.FixLag = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
+```
+
+---
+
 ## ✅ 15. Cokka Hub
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua"))()
