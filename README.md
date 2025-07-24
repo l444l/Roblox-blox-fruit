@@ -1,7 +1,5 @@
 # 🔥 Roblox Script Hubs Collection
 
-Kumpulan script hub dan tools untuk game Roblox seperti **Blox Fruits**, **King Legacy**, dan lainnya. Gunakan dengan bijak!
-
 ---
 
 ## ⚗️ 1. Alchemy Hub Script
@@ -228,19 +226,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenhubtop/zen_hub_pr/
 
 ---
 
-> 🚨 **Disclaimer**: Semua script hanya untuk tujuan edukasi. Penggunaan di game dapat menyebabkan banned atau pelanggaran TOS Roblox.
-
----
-
-## ✍️ Cara Menggunakan
-
-1. Buka Roblox dan jalankan game (misalnya **Blox Fruits**).
-2. Buka executor seperti **Hydrogen**, **Fluxus**, **KRNL**, atau lainnya.
-3. Paste salah satu script dari atas.
-4. Jalankan dan nikmati fiturnya!
-
----
+> 🚨 **Disclaimer**: All scripts are for educational purposes only. Use in games may result in a ban or a violation of Roblox's TOS.All scripts are for educational purposes only. Use in games may result in a ban or a violation of Roblox's TOS.
 
 ## 📌 Credits
 
-Script dibuat dan dibagikan oleh berbagai developer di komunitas. Hak cipta milik masing-masing pembuat.
+Scripts are created and shared by various developers in the community. Copyright belongs to their respective creators.
+> https://arceusx.com/blox-fruit-script
