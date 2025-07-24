@@ -1,17 +1,32 @@
-# Roblox---blox-fruit
+# 🔥 Roblox Script Hubs Collection
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
-Copy
-15. Cokka Hub
-loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua")()
-Copy
-16. Aurora Hub
+Kumpulan script hub dan tools untuk game Roblox seperti **Blox Fruits**, **King Legacy**, dan lainnya. Gunakan dengan bijak!
+
+---
+
+## ✅ 15. Cokka Hub
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua"))()
+```
+
+---
+
+## ✨ 16. Aurora Hub
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jadelly261/BloxFruits/main/Aurora", true))()
-Copy
-17. Volcano Hub
+```
+
+---
+
+## 🌋 17. Volcano Hub
+```lua
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/indexeduu/BF-NewVer/refs/heads/main/V3New.lua"))()
-Copy
-18. Lion Fruit Finder Script
+```
+
+---
+
+## 🦁 18. Lion Fruit Finder Script
+```lua
 getgenv().Config = {
     Team = {
         SelectTeam = "Marines"
@@ -37,15 +52,59 @@ getgenv().Config = {
     }
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d734d024f3000caddd23122da89a6c3e.lua"))()
-Copy
-19. Trade Scam Script Blox Fruits Script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RinHubv4/RealRin/refs/heads/main/rinv4",true))()Copy
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RinHubv4/redz/refs/heads/main/realrin",true))() Copy
-20. Perm Spawner Script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/astrohub1/Perm-Spawner/refs/heads/main/BloxFruits.lua",true))()Copy
-21. Min Gaming for Draco Trial
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinXoE"))()Copy
-22. Vxeze Hub
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/Vxezehub/refs/heads/main/VxezeHubMain"))()Copy
-23. Zen Hub King Legacy
+```
+
+---
+
+## ⚠️ 19. Trade Scam Script Blox Fruits (⚠️ For Educational Purposes Only!)
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RinHubv4/RealRin/refs/heads/main/rinv4",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RinHubv4/redz/refs/heads/main/realrin",true))()
+```
+
+---
+
+## 🌀 20. Perm Spawner Script
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/astrohub1/Perm-Spawner/refs/heads/main/BloxFruits.lua",true))()
+```
+
+---
+
+## 🐉 21. Min Gaming for Draco Trial
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinXoE"))()
+```
+
+---
+
+## 🧠 22. Vxeze Hub
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/Vxezehub/refs/heads/main/VxezeHubMain"))()
+```
+
+---
+
+## 👑 23. Zen Hub (King Legacy)
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenhubtop/zen_hub_pr/main/zennewwwwui.lua", true))()
+```
+
+---
+
+> 🚨 **Disclaimer**: Semua script hanya untuk tujuan edukasi. Penggunaan di game dapat menyebabkan banned atau pelanggaran TOS Roblox.
+
+---
+
+## ✍️ Cara Menggunakan
+
+1. Buka Roblox dan jalankan game (misalnya **Blox Fruits**).
+2. Buka executor seperti **Hydrogen**, **Fluxus**, **KRNL**, atau lainnya.
+3. Paste salah satu script dari atas.
+4. Jalankan dan nikmati fiturnya!
+
+---
+
+## 📌 Credits
+
+Script dibuat dan dibagikan oleh berbagai developer di komunitas. Hak cipta milik masing-masing pembuat.
