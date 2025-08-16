@@ -35,7 +35,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Efe0626/RaitoHub/main
 
 ## 🌀 5. HoHo Hub Script
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ascn123/HOHO_H/main/Loading_UI'))()
+_G.HohoVersion = "v4"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
 ```
 
 ---
