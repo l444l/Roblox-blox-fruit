@@ -110,7 +110,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/simple-hubs/contents/
 
 ## ⚛️ 11. Quantum Onyx Project
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FlazhGG/QTONYX/refs/heads/main/NextGeneration.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
 ```
 
 ---
@@ -227,7 +227,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenhubtop/zen_hub_pr/
 
 ---
 
-> 🚨 **Disclaimer**: All scripts are for educational purposes only. Use in games may result in a ban or a violation of Roblox's TOS.All scripts are for educational purposes only. Use in games may result in a ban or a violation of Roblox's TOS.
+> 🚨 **Disclaimer**: All scripts are for educational purposes only. Use in games may result in a ban or a violation of Roblox's TOS.
 
 ## 📌 Credits
 
